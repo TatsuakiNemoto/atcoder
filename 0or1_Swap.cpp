@@ -18,5 +18,6 @@ int main(){
     }else{
         cout << "NO" << endl;
     }
+    cout << "add" << endl;
     return 0;
 }
