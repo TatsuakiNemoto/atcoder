@@ -3,15 +3,15 @@ using namespace std;
 
 int main(){
     //int sa = 0; 
-    int bsb = 0;//before sum 
-    int asb = 0;//after sum
+    long int bsb = 0;//before sum 
+    long int asb = 0;//after sum
     int n; cin >> n;
-    int a[n+1];
+    long int a[n+1];
     for(int i=0; i<n+1; i++){
         cin >> a[i];
         //sa += a[i];
     }
-    int b[n];
+    long int b[n];
     for(int i=0; i<n; i++){
         cin >> b[i];
         bsb += b[i];
