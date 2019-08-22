@@ -11,4 +11,5 @@ int main(){
     int ans = 0;
     int value[100000];
     for(int i=0; i<100000; i++) value = 0;
+    
 }
