@@ -4,5 +4,6 @@
         "iostream": "cpp",
         "queue": "cpp",
         "stack": "cpp"
-    }
+    },
+    "python.pythonPath": "/usr/bin/python3"
 }
