@@ -1,0 +1,2 @@
+# docker起動
+docker-compose exec atcoder bash
